@@ -1,0 +1,706 @@
+CRITICAL - 2023-07-26 00:21:47 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:48 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:49 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:51 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:52 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:57 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:58 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:21:59 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:00 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:03 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:10 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:10 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:11 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:20 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:27 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:27 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:28 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:29 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:29 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:30 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:31 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:32 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:33 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:22:33 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:13 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:13 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:14 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:15 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:15 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:19 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:20 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:21 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:22 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:23 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:23 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:25 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:33 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:34 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:36 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:38 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:38 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:38 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:39 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:23:39 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+in APPPATH/Config/Events.php on line 28.
+ 1 APPPATH/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH/CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:08 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Home.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Home.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:09 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Home.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Home.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:29 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:30 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:31 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:32 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:32 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:42 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:29:43 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 19.
+ 1 APPPATH/Views/book_list.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 19)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:30:39 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 215.
+ 1 APPPATH/Views/book_list.php(215): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 215)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:30:40 --> Undefined variable $books
+in APPPATH/Views/book_list.php on line 215.
+ 1 APPPATH/Views/book_list.php(215): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 215)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:30:54 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 217.
+ 1 APPPATH/Views/book_list.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 217)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:30:54 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 217.
+ 1 APPPATH/Views/book_list.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 217)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:31:24 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 217.
+ 1 APPPATH/Views/book_list.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 217)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:31:25 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 217.
+ 1 APPPATH/Views/book_list.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 217)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:31:36 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 222.
+ 1 APPPATH/Views/book_list.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 222)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:31:37 --> Undefined variable $book
+in APPPATH/Views/book_list.php on line 222.
+ 1 APPPATH/Views/book_list.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php', 222)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/book_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('book_list', [], true)
+ 5 APPPATH/Controllers/Home.php(9): view('book_list')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:32:37 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Home.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Home.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:32:38 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Home.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Home.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:35:20 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:35:28 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:35:28 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:37:12 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:37:14 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:37:14 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:21 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:21 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:22 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:23 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:23 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:23 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:38:24 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:59:51 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 00:59:52 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Books.php on line 2.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Controllers/Books.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Books')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Books')
+ 5 SYSTEMPATH/CodeIgniter.php(890): class_exists('\\App\\Controllers\\Books', true)
+ 6 SYSTEMPATH/CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:27:09 --> Undefined variable $autores
+in APPPATH/Views/add_book.php on line 16.
+ 1 APPPATH/Views/add_book.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $autores', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php', 16)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('add_book', [], true)
+ 5 APPPATH/Controllers/Books.php(19): view('add_book')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:27:38 --> Undefined variable $autores
+in APPPATH/Views/add_book.php on line 16.
+ 1 APPPATH/Views/add_book.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $autores', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php', 16)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('add_book', [], true)
+ 5 APPPATH/Controllers/Books.php(20): view('add_book')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:27:39 --> Undefined variable $autores
+in APPPATH/Views/add_book.php on line 16.
+ 1 APPPATH/Views/add_book.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $autores', '/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php', 16)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/fabricastextiles/php.fabricastextiles.com.ar/app/Views/add_book.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('add_book', [], true)
+ 5 APPPATH/Controllers/Books.php(20): view('add_book')
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:28:11 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:28:12 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:28:13 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:28:22 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:29:01 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-26 01:29:01 --> Invalid file: "agregar_libro.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agregar_libro.php')
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('agregar_libro', [], true)
+ 3 APPPATH/Controllers/Books.php(24): view('agregar_libro', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Books->add()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
